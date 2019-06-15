@@ -1,5 +1,4 @@
 1.Langkah membuat mengunakan git hub :
-  - Membuat repository
   - Membuat branch :
     + Bisa dilakukan dengan mencari file,* jika tidak maka git hub secara otomatis akan membuatkan branch baru 
 
