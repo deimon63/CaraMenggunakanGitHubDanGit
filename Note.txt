@@ -1,2 +1,8 @@
-Langkah membuat mengunakan git hub :
-- Membuat repository
+1.Langkah membuat mengunakan git hub :
+  - Membuat repository
+
+
+
+2.Catatan tambahan :
+  - File yang mau diubah dapat dilakukan secara langsung di github.
+
