@@ -10,4 +10,9 @@
 
 2.Catatan tambahan :
   - File yang mau diubah dapat dilakukan secara langsung di github.
+  
+  
+3. Istilah:
+  - Check out
+  - token -> hash
 
