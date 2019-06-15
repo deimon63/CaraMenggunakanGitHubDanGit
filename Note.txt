@@ -1,0 +1,2 @@
+Langkah membuat mengunakan git hub :
+- Membuat repository
